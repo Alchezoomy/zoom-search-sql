@@ -12,6 +12,7 @@ const transcriptData = require('../data/transcripts');
 const chatData = require('../data/chats');
 // const favoritesData = require('../data/favorites');
 
+// happy to see tests in here!
 describe('app routes', () => {
   describe('routes', () => {
     let token;
